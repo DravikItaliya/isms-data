@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "62a0551f354c6c56cec9a0d6"
+  },
+  "id": 1,
+  "name": "Darvik",
+  "rank": "intern",
+  "number": "1234567890",
+  "snumber": "12",
+  "adharno": "123456789900",
+  "cat": "N/A",
+  "blacklist": "No",
+  "gender": "Male",
+  "username": "Dhairya",
+  "date": {
+    "$date": {
+      "$numberLong": "1654646400000"
+    }
+  },
+  "time": {
+    "$date": {
+      "$numberLong": "-2208985680308"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a439ff27610898c12d143c"
+  },
+  "id": 7,
+  "name": "Krish",
+  "rank": "intern",
+  "number": "9876543210",
+  "snumber": "109",
+  "adharno": "987656741234",
+  "cat": "Me",
+  "blacklist": "No",
+  "gender": "Male",
+  "username": "Dhairya",
+  "date": {
+    "$date": {
+      "$numberLong": "1654819200000"
+    }
+  },
+  "time": {
+    "$date": {
+      "$numberLong": "-2208903280595"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a833f2c1144f0e33a52e00"
+  },
+  "id": 8,
+  "name": "",
+  "rank": "",
+  "number": "",
+  "snumber": "",
+  "adharno": "",
+  "cat": "N/A",
+  "blacklist": "",
+  "gender": "",
+  "username": "Dhairya",
+  "date": {
+    "$date": {
+      "$numberLong": "1655164800000"
+    }
+  },
+  "time": {
+    "$date": {
+      "$numberLong": "-2208988285062"
+    }
+  }
+}]

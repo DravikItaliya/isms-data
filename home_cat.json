@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "62a07fe334a7db6faaaa3105"
+  },
+  "id": 1,
+  "category": "Me",
+  "date": {
+    "$date": {
+      "$numberLong": "1654646400000"
+    }
+  },
+  "time": {
+    "$date": {
+      "$numberLong": "-2208974732621"
+    }
+  }
+}]
